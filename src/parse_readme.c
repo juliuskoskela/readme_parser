@@ -6,7 +6,7 @@
 /*   By: jkoskela <jkoskela@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/01/02 17:35:55 by jkoskela          #+#    #+#             */
-/*   Updated: 2021/01/03 02:24:08 by jkoskela         ###   ########.fr       */
+/*   Updated: 2021/01/03 03:22:50 by jkoskela         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -111,3 +111,5 @@ int			main(int argc, char **argv)
 	}
 	return (0);
 }
+
+// library/src -type f | tr '\r\n' ' '
